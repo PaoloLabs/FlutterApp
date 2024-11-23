@@ -1,7 +1,6 @@
 # flutter_news_apps
 
-A new Flutter project.
-
+Proyecto final para el diplomado donde se obtiene noticiás por categoría
 ## Getting Started
 
 This project is a starting point for a Flutter application.
